@@ -1,0 +1,124 @@
+{
+    "host":"youtube",
+    "channel":"Linus Tech Tips",
+    "channel_link":"https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
+    "link":"https://www.youtube.com/watch?v=qkIpTWIiuI4",
+    "specs":[
+        {
+            "type":"motherboard",
+            "brand":"ASUS ROG",
+            "model":"Z590 Maximus XIII Hero",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=91"
+        },
+        {
+            "type":"cpu",
+            "brand":"Intel",
+            "model":"Core i9-10850k",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=126"
+        },
+        {
+            "type":"ram",
+            "brand":"G.Skill",
+            "model":"Trident Z RGB",
+            "speed":3200,
+            "speed_unit":"Mhz",
+            "capacity":16,
+            "capacity_unit":"GB",
+            "qty":4,
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=192"
+        },
+        {
+            "type":"case",
+            "brand":"Phanteks",
+            "model":"ECLIPSE P500A DRGB",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=243"
+        },
+        {
+            "type":"fan",
+            "brand":"Arctic",
+            "model":"BioniX P120 A-RGB",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=445",
+            "qty":4
+        },
+        {
+            "type":"storage",
+            "brand":"Sabrent",
+            "model":"Rocket Q",
+            "capacity":2,
+            "capacity_unit":"TB",
+            "storage_type":"SSD"
+        },
+        {
+            "type":"cpu-cooler",
+            "brand":"MSI",
+            "model":"MAG CoreLiquid 360r"
+        },
+        {
+            "type":"psu",
+            "brand":"ASUS ROG",
+            "model":"Thor 1200w Platinum",
+            "watt":1200,
+            "watt_unit":"watt"
+        },
+        {
+            "type":"gpu",
+            "brand":"ASUS ROG",
+            "model":"Strix Radeon RX 6800",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=709"
+        },
+        {
+            "type":"light",
+            "brand":"Phanteks",
+            "model":"Digital RGB Neon LED kit",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=752"
+        },
+        {
+            "type":"light",
+            "brand":"Lian-Li",
+            "model":"Strimer cables",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=798"
+        },
+        {
+            "type":"light-controller",
+            "brand":"Cooler Master",
+            "model":"ARGB LED Controller",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=798"
+        },
+        {
+            "type":"gpu-support",
+            "brand":"Cooler Master",
+            "model":"RGB GPU anti-sag bracket",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=863"
+        },
+        {
+            "type":"flair",
+            "brand":"Corsair",
+            "model":"LT100",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=1027"
+        },
+        {
+            "type":"headphone",
+            "brand":"Corsair",
+            "model":"Virtuoso RGB",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=1029"
+        },
+        {
+            "type":"headphone-stand",
+            "brand":"Corsair",
+            "model":"ST100",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=1029"
+        },
+        {
+            "type":"deskpad",
+            "brand":"Corsair",
+            "model":"MM700 RGB",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=1033"
+        },
+        {
+            "type":"keyboard",
+            "brand":"Marsback",
+            "model":"M1",
+            "timestamp":"https://youtu.be/qkIpTWIiuI4?t=1051"
+        }
+    ]
+}
